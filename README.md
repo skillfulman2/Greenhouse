@@ -2,7 +2,7 @@
 
 Will be using this repository to document the building of my geothermal greenhouse.
 
-Original inspiration for this project was Russ Finch. Taking taking most of my design choices from the people at Greencube Research. This technology is something that doesn't have a ton of exposure and I have to see if it's "too good to be true".
+Original inspiration for this project was Russ Finch. Taking most of my design choices from the people at Greencube Research. This technology is something that doesn't have a ton of exposure and I have to see if it's "too good to be true".
 
  Design
 ------------
