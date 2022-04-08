@@ -11,7 +11,7 @@ Original inspiration for this project was Russ Finch. Taking most of my design c
 
 ##### Thermal Battery
 
-Used to provide heating/cooling to the greenhouse depending on the time of year. Supposedly much of the earths temperature stays consistenly ~ 12.7°C (55°F for the other dumb americans like me) at around 8'-10'ft deep. Thermal battery will be made by digging a ~~20x40x8.5ft~~ 6.096m x (6.096 * 2m) x 2.5908m hole in the ground. 6 inches of coated EPA insulation on the sides and floor. Cinder blocks for support in the center. Coated PVC grid, corrugated pipes, adhesive, and gravel make up the rest. 
+Used to provide heating/cooling to the greenhouse depending on the time of year. Supposedly much of the earths temperature stays consistenly ~ 12.7°C (55°F for the other dumb americans like me) at around 8'-10'ft deep. Thermal battery will be made by digging a ~~20x40x8.5ft~~ 6.096m x (6.096 * 2m) x 2.5908m hole in the ground. 6 inches of coated EPA insulation on the sides and floor. Cinder blocks for support in the center/walkway. Coated PVC grid, corrugated pipes, adhesive, and gravel make up the rest. 
 
 
 ##### Greenhouse
