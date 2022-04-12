@@ -1,7 +1,7 @@
 import xlsxwriter
 
 # Create a workbook and add a worksheet.
-workbook = xlsxwriter.Workbook('Expenses02.xlsx')
+workbook = xlsxwriter.Workbook('TB_Material_Cost_Source.xlsx')
 worksheet = workbook.add_worksheet()
 
 # Add a bold format to use to highlight cells.
@@ -24,11 +24,11 @@ worksheet.write('J1', 'Source', bold)
 
 # Some data we want to write to the worksheet.
 expenses = (
-	['EPS Foam', 4, 8, .5, ,20, 50, 'google.com'],
-	['EPS Foam', 4, 8, .5, ,20, 50, 'google.com'],
-	['EPS Foam', 4, 8, .5, ,20, 50, 'google.com'],
-	['EPS Foam', 4, 8, .5, ,20, 50, 'google.com'],
-	['EPS Foam', 4, 8, .5, ,20, 50, 'google.com'],
+	['EPS Foam', 4, 8, .5, 20, 50, 'google.com'],
+	['EPS Foam', 4, 8, .5, 20, 50, 'google.com'],
+	['EPS Foam', 4, 8, .5, 20, 50, 'google.com'],
+	['EPS Foam', 4, 8, .5, 20, 50, 'google.com'],
+	['EPS Foam', 4, 8, .5, 20, 50, 'google.com'],
 )
 
 # Start from the first cell below the headers.
