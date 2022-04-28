@@ -40,7 +40,9 @@ Will be trying to put my entire process in here. Am going to post costs of every
 
 __Table of Contents__
 ====================
-1. [Financial Sheets](./xlsxWriter)
+1. Financial Sheets
+	* [Excel Workbook Writer](./xlsxWriter/materials_costs_sources.py)
+	* [Excel Workbook](./excelWorkbook/Material_Cost_Source.xlsx)
 2. [CAD Models (shapr3D)](./cadModels)
 
 
