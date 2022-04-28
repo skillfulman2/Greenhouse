@@ -40,7 +40,8 @@ Will be trying to put my entire process in here. Am going to post costs of every
 
 __Table of Contents__
 ====================
-
+1. [Financial Sheets](./xlsxWriter)
+2. [CAD Models (shapr3D)](./cadModels)
 
 
 
