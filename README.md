@@ -34,6 +34,8 @@ Notes
 -------------------
 Will be trying to put my entire process in here. Am going to post costs of everything and where I sourced them from towards the end. My plan is to treat this repository like an extended blog post that is written over the course of the build.
 
+Building in public insipired by Neil Sardesi
+
 
 
 
