@@ -14,7 +14,7 @@ Original inspiration for this project was Russ Finch. Taking most of my design c
 
 
 \
-I designed the CAD model using Shapr3D. The raw CAD model is under the cadModels directory.\
+I designed the CAD model using Shapr3D. The raw CAD file is under the cadModels directory. If you would like the file in another format please reach out and I will export it.\
 \
 <img src="images/cad.gif?raw=true" width="2400px">
 
