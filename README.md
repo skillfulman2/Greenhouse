@@ -15,7 +15,7 @@ Original inspiration for this project was Russ Finch. Taking most of my design c
 
 \
 This is a Shapr3D file that shows what the end will look like. The raw CAD model is under the cadModels directory.\
-<img src="Greenhouse/images/cad.gif?raw=true" width="2400px">
+<img src="images/cad.gif?raw=true" width="2400px">
 
 
  Design
