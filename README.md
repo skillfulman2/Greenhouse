@@ -13,6 +13,9 @@ Original inspiration for this project was Russ Finch. Taking most of my design c
 > The contents will allow the reader to adapt the “geo-air” technology to almost any design greenhouse, home, office, or warehouse." - Greencube Research
 
 
+\
+This is a Shapr3D file that shows what the end will look like. The raw CAD model is under the cadModels directory.\
+<img src="Greenhouse/images/cad.gif?raw=true" width="2400px">
 
 
  Design
@@ -43,7 +46,7 @@ __Table of Contents__
 1. Financial Sheets
 	* [Excel Workbook Writer](./xlsxWriter/materials_costs_sources.py)
 	* [Excel Workbook](./excelWorkbook/Material_Cost_Source.xlsx)
-2. [CAD Models (shapr3D)](./cadModels)
+2. [CAD Models (shapr3D)](./cadModels/Greenhouse.shapr)
 
 
 
