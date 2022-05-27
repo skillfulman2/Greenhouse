@@ -2,7 +2,7 @@ import xlsxwriter
 
 # Create a workbook and add a thermalBatteryWorksheet.
 workbook = xlsxwriter.Workbook('../excelWorkbook/Material_Cost_Source.xlsx')
-thermalBatteryWorksheet = workbook.add_worksheet()
+thermalBatteryWorksheet = workbook.add_worksheet('Thermal Battery')
 
 # Add a bold format to use to highlight cells.
 bold = workbook.add_format({'bold': True})
@@ -35,7 +35,7 @@ thermalBatteryMaterials = (
  	['EPS Foam', 26, 22, 1, 0, 2, '', 'North Air Plenum Ends'], 
  	['EPS Foam', 93.64, 23.906, 2, 0, 2, '', 'North Air Plenum Bottom'], 
  	['EPS Foam', 53.14, 24, 2, 0, 4, '', 'North Air Plenum Top'],
-	['EPS Foam', 96, 48, 6, 0, 30, '', 'Thermal Battery Walls'],
+	['EPS Foam', 96, 48, 6, 76.03, 30, '', 'Thermal Battery Walls'],
 	['EPS Foam', 68, 22, 2, 0, 4, '', 'South Plenum Front & Back'],  
 	['EPS Foam', 22, 23.906, 2,  0, 4, '', 'South Plenumm Ends'],
 	['EPS Foam', 72, 23.906, 2, 0, 4, '', 'South Plenum Top'],
@@ -73,7 +73,7 @@ thermalBatteryWorksheet.write(row, 0, 'Total',       bold)
 thermalBatteryWorksheet.write(row, 1, '=SUM(B2:B5)', money)
 
 
-greenhouseWorksheet = workbook.add_worksheet()
+greenhouseWorksheet = workbook.add_worksheet('Greenhouse')
 
 # Write some data headers.
 greenhouseWorksheet.write('A1', 'Material', bold)
@@ -90,8 +90,8 @@ greenhouseWorksheet.write('K1', 'Location', bold)
 
 # Some data we want to write to the greenhouseWorksheet.
 greenhouseMaterials = (
-	['EPS Foam', 96, 48, 6, 0, 17, '', 'Front and Back'],
-	['EPS Foam', 71, 42, 2, 0, 6, '', 'North Insulation Ends'],
+	['EPS Foam', 96, 48, 6, 76.03, 17, '', 'Front and Back'],
+	['EPS Foam', 71, 42, 2, 25.34, 6, '', 'North Insulation Ends'],
  	['EPS Foam', 71, 48, 2, 0, 24, '', 'North Insulation Middle'],
  	['EPS Foam', 27.8, 42, 6, 0, 2, '', 'North Insulation Base Ends'], 
  	['EPS Foam', 27.8, 48, 6, 0, 8, '', 'North Insulation Base Middle'], 
@@ -106,8 +106,6 @@ greenhouseMaterials = (
 	['EPS Foam', 42, 10, 6, 0, 2, '', 'South PVC Anchor Ends'],
 	['EPS Foam', 48, 10, 6, 0, 10, '', 'South PVC Anchor Middle'],
  	
-
-
 )
 
 # Start from the first cell below the headers.
@@ -130,5 +128,7 @@ for material, lengthInch, widthInch, depthInch, cost, quantity, source, location
     greenhouseWorksheet.write(row, col + 10, location)
 
     row += 1
+
+greenhouseWorksheet.write('A' + str(row + 2), "Item", bold)
 
 workbook.close()
