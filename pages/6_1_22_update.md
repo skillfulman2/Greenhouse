@@ -17,9 +17,9 @@ Friends are a necessary and important part of life and unloading the van without
 Steps in the short term include:
 
 	1. Continuing hole excavation
-		* I've started in the east corner and will work my way around with the trackhoe. Hydraulic lines starting leaking and cut my work short it will be an easy fix thanks to the folks on the heavy duty machinery forum (shoutout to Delmer and Tinkerer). Moments like this make me appreciate the power of the internet when used in the right way.
+		*I've started in the east corner and will work my way around with the trackhoe. Hydraulic lines starting leaking and cut my work short it will be an easy fix thanks to the folks on the heavy duty machinery forum (shoutout to Delmer and Tinkerer). Moments like this make me appreciate the power of the internet when used in the right way.
 	2. After excavation I will need a level foundation comprised of 4" of pea gravel. 
-		* If this proves to be too difficult to do by myself I have no problem calling in the professionals, but the whole point of this journey is to show anyone that they can do it by themselves and some help from loved ones. I've purchased 3 soil temperature/moisture gauges that I will lay at different levels and locations in the thermal battery to be able to measure thermodynamic action in the soil. 
+		*If this proves to be too difficult to do by myself I have no problem calling in the professionals, but the whole point of this journey is to show anyone that they can do it by themselves and some help from loved ones. I've purchased 3 soil temperature/moisture gauges that I will lay at different levels and locations in the thermal battery to be able to measure thermodynamic action in the soil. 
 	3. Coating foundation and perimeter EPS to prevent premature degredation. 
 	4. PVC grid and plenum head construction. 
 	5. Geotube installation
