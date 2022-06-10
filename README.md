@@ -44,10 +44,12 @@ Will be trying to put my entire process in here. Am going to post costs of every
 
 __Table of Contents__
 ====================
-1. Financial Sheets
+0. Random Notes
+	* The pages directory will have images and explanations throughout the process. Will have a mixture of images and text. 
+2. Financial Sheets
 	* [Excel Workbook Writer](./xlsxWriter/materials_costs_sources.py)
 	* [Excel Workbook](./excelWorkbook/Material_Cost_Source.xlsx)
-2. [CAD Models (shapr3D)](./cadModels/Greenhouse.shapr)
+3. [CAD Models (shapr3D)](./cadModels/Greenhouse.shapr)
 
 
 
