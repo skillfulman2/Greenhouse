@@ -16,3 +16,7 @@ This was the hole on June 7th I started digging on May 30th.
 Hole on June 9th
 
 Definitely am learning how to operate the backhoe without causing massive leaks. Started running the engine at lower RPM's; it's moves slower but haven't had any downtime to retighten fittings.
+
+![Hole on June 25th](../images/hole3.jpg)
+
+Well I jinxed myself. Starting digging yesterday and hydro started pouring out. Not sure where it was coming from I need to fill it back up and inspect. Boom cylinder is really starting to leak when I actuate the bucket but I'm going to finish the job as is and worry about the cylinder after. 
