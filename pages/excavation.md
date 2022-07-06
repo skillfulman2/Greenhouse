@@ -21,5 +21,5 @@ Definitely am learning how to operate the backhoe without causing massive leaks.
 
 Well I jinxed myself. Starting digging yesterday and hydro started pouring out. Not sure where it was coming from I need to fill it back up and inspect. Boom cylinder is really starting to leak when I actuate the bucket but I'm going to finish the job as is and worry about the cylinder after. 
 
-![Hole on July 4th](..images/july4.jpg)
+![Hole on July 4th](../images/july4.jpg)
 The hole is finally finished over the long weekend. Very worry about hydrostatic pressure but I have a few ideas in mind to try and mitigate. Will ordergravel once I cleaned out the southern wall.
