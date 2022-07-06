@@ -16,3 +16,9 @@ This was the hole on June 7th I started digging on May 30th.
 Hole on June 9th
 
 Definitely am learning how to operate the backhoe without causing massive leaks. Started running the engine at lower RPM's; it's moves slower but haven't had any downtime to retighten fittings.
+
+![Hole on July 4th](../images/july4.jpg)
+
+Hole on July 4th
+
+And with the closing of the holiday weekend I've finished excavation. Very worried about the next steps but I was very worred about excavating. Going to order gravel once I get the sides cleaned up.
