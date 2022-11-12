@@ -30,6 +30,20 @@ Steps in the short term include:
 
 I'm really just focusing on the geo battery portion for now because the whole system is really comprised of 2 seperate parts that (ideally) work well together. I'm signing off for now it's late and I'm tired. You'll be hearing from me soon hopefully with good news.
 
+11.12.22 - Holy smokes it's been about 4 months since updating this repo. After I completed excavation the soccer season began in full swing so I did not have time to work on the greenhouse. This was my first year as JV soccer coach at Alter Highschool. We had a successful season and I enjoyed it much more than I thought I would, but I definitely underestimated the time commitment. I took off this week from work to get this project back on track. I (naively) thought I'd be able to grade the bottom of the hole, place the foam, skeleton, and corrugated pipe and infill with dirt all in one week. Boy what a fool I am. This was a week of ups and downs. Learned many lessons but am looking forward to whats to come. 
+
+I started off getting a load of pea gravel Monday morning. 
+
+[![Pea Dumping](https://lh3.googleusercontent.com/NblVL1hIkc8nrqpp36w0uNuUDdgEO25twIUX05yw_DFrCjzpYMCpIOJ6cQfMU6Hckd7t0WDvcUqeoJ9r-niAKtvv4zy5IjwBOAjCJU62GshNQf7H7HEul9tGQuLHADMeZ0RYhbaBOA=w2400)](https://photos.app.goo.gl/oBbLWEk6jnp5H8iP9)
+
+And at this point I was feeling pretty good. My pea gravel was delivered painlessley and I was getting my bobcat rental in about an hour. I could make my ramp down to the hole, grade the bottom and begin filling it back in. 
+
+Then this happened.
+
+![Stuck](https://lh3.googleusercontent.com/3Of6cxunkoesrB0i_pv1qmwiUG4tEdlylXupRKwNoA3g7XkIdXt9bzWYmetR-3a3SljAMeS6raaPtpEHOalAH3DJmCp-LWUCJV-XOpAARyqp4V5NR7phCGU1nKMiTBZV86cyYqf9iw=w2400)
+
+If you've never gotten a bobcat stuck in the mud, I can assure you it is a pretty helpless feeling. You start to feel yourself getting stuck, then you try to get yourself unstuck. But trying to get yourself unstuck results in you getting yourself more stuck. So I'm stuck, and keep in mind this is the first time I've ever used a track loader so this is all very much uncharted territory for me. I'm thinking this could be a 6 figure mistake. In hindsight I was freaking out over nothing but in the moment I was tweaking. I did not want to call the rental place because I was embarrased and nervous what they would say. I described to him that I had a problem and he just laughed at me and basically said "If you've ever used a bobcat chances are you've gotten a bobcat stuck, call this number and they'll get you out." I called number and $560 later I was out of the mud. So monday I didn't get a ton done and basically just got myself stuck and unstuck. 
+
 Onward and upward.  
 
 
